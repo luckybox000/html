@@ -7,10 +7,9 @@ body {
   flex-direction: column;
   height: 100vh;
 }
-
-#header {
+header {
   display: flex;
-  flex-basis: 50px;
+  flex-basis: 100px;
   align-items: flex-end;
   padding: 12px;
   background-color: dodgerblue;
