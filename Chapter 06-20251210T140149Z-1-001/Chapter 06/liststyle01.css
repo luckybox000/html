@@ -1,0 +1,10 @@
+ul {
+  list-style: "★";
+}
+/* li별로 지정하는것도 가능 */
+ul > li {
+  list-style: "▶";
+}
+ol {
+  list-style: lower-alpha;
+}
